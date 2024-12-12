@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "11f836ab-0f39-4d1c-ae8a-b82da4ca9c11")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "TRIM2_1"
+		(shape input)
+		(at 78.74 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0878fdf4-b564-441a-9228-a32d3c2dfcd5")
+	)
+	(hierarchical_label "RFI2"
+		(shape input)
+		(at 78.74 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "186b6b76-6fb2-4286-b8c7-dd24044c1bb2")
+	)
+	(hierarchical_label "TRIM1_1"
+		(shape input)
+		(at 78.74 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2c1e0366-bc9e-4853-9083-4d45c6d1277b")
+	)
+	(hierarchical_label "TRIM2_0"
+		(shape input)
+		(at 78.74 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "60dbbeee-3b00-40b6-be02-9eb49b3656df")
+	)
+	(hierarchical_label "TRIM1_3"
+		(shape input)
+		(at 78.74 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "615c623a-6818-4af1-a975-56b3f8e0fe97")
+	)
+	(hierarchical_label "TRIM1_2"
+		(shape input)
+		(at 78.74 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73ef836d-9e86-4b30-aed2-876e35a06cb6")
+	)
+	(hierarchical_label "TRIM1_0"
+		(shape input)
+		(at 78.74 48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8b438578-fd5a-478e-aef0-c920d58e7768")
+	)
+	(hierarchical_label "RFI1"
+		(shape input)
+		(at 78.74 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8e694d13-671d-4556-a865-2f8133e7e41d")
+	)
+	(hierarchical_label "RFO2"
+		(shape input)
+		(at 78.74 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98ef0c2b-8328-4d53-aa53-827e9d23dd85")
+	)
+	(hierarchical_label "TRIM2_3"
+		(shape input)
+		(at 78.74 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9d8e3e3c-adb6-43ab-a389-0c805edac52d")
+	)
+	(hierarchical_label "RFO1"
+		(shape input)
+		(at 78.74 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "afdbb581-030a-400a-8ba5-c7f2bf3ddeaf")
+	)
+	(hierarchical_label "TRIM2_2"
+		(shape input)
+		(at 78.74 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e8c9ed4c-d811-4169-9d8b-a8844d4a8488")
+	)
+)
